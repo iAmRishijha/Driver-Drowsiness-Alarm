@@ -24,7 +24,6 @@ pip install -r requirements.txt
 4. Run the Script
    ```
    python main.py
-   
    ```
 5. Press `q` to exit.
 ## Sound Files
