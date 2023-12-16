@@ -9,7 +9,7 @@ This Python script utilizes computer vision and facial landmarks detection to de
 Make sure you have the following libraries installed with the specified versions. You can install them using the provided `requirements.txt` file:
 
 ```
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Libraries and Versions
 * `numpy==1.26.1`
@@ -23,7 +23,7 @@ Make sure you have the following libraries installed with the specified versions
 3. Download the `shape_predictor_68_face_landmarks.dat' file from dlib's official website and place it in the project directory.
 4. Run the Script
    ```
-   	python main.py
+   python main.py
    
    ```
 5. Press `q` to exit.
